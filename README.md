@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ronald Ekambi, Backend Developer. Currently work with Ruby on Rails. Occassionally works/play around with React.
+My name is Ronald Ekambi, Backend Developer. Currently work with Ruby on Rails. Occassionally works/plays around with React.
