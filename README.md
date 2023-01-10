@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ronald Ekambi, Software Engineer @ Wealthsimple. Currently work with Ruby on Rails & ReactJS. Occassionally works/plays around with Clojure.
+My name is Ronald Ekambi, Software Engineer @ Hashicorp. Currently work with GO. Occassionally works/plays around with Ruby on Rails, ReactJs and Clojure.
