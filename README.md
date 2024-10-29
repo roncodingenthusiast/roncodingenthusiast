@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Ronald Ekambi, Software Engineer @ Honeycomb. Currently work with Golang. Occassionally works/plays around with Ruby on Rails, ReactJs and Clojure.
 
-- 🔭 I’m currently working on Boards
+- 🔭 I’m currently working on dashboards
 - 🌱 I’m currently learning Open Telemetry
 - 💬 Ask me about Ruby on Rails, code instrumentation, Terraform, CI/CD and Authz/Authn
 - 📫 How to reach me: [ronekambi@gmail.com](ronekambi@gmail.com)
