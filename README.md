@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ronald Ekambi, Software Engineer @ Hashicorp. Currently work with Ruby on Rails and EmberJS. Occassionally works/plays around with Golang, ReactJs and Clojure.
+My name is Ronald Ekambi, Software Engineer @ Honeycomb. Currently work with Golang. Occassionally works/plays around with Ruby on Rails, ReactJs and Clojure.
 
-- 🔭 I’m currently working on Terraform Cloud
-- 🌱 I’m currently learning ABAC
-- 💬 Ask me about Ruby on Rails, Terraform, CI/CD and Authz/Authn
+- 🔭 I’m currently working on Boards
+- 🌱 I’m currently learning Open Telemetry
+- 💬 Ask me about Ruby on Rails, code instrumentation, Terraform, CI/CD and Authz/Authn
 - 📫 How to reach me: [ronekambi@gmail.com](ronekambi@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ My hobbies: soccer ⚽, Video Games (PS gamer 🎮), 
